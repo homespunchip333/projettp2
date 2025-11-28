@@ -48,9 +48,10 @@ Je suis quelqu’un qui communique bien et sais bien comment faire de la gestion
 Christophe Granger
 
 ### Moodboard  
--![Carte Mentale](Carte Mentale(1).jpg)
--![Diagramme de Flux](Diagrammedeflux.png)
--![Moodboard](MOODBOARD DOMAINE.jpg)
+![Moodboard](moodboard.png)
 
 ### Diagramme de flux  
--
+![Diagramme de Flux](Diagrammedeflux.png)
+
+### Carte Mentale
+![Carte Mentale](cartementale.png)
